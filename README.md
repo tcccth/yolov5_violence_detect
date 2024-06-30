@@ -1,0 +1,2 @@
+# yolov5_violence_detect
+基于yolov5s进行的暴力行为检测
