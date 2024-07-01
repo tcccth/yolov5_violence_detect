@@ -8,6 +8,6 @@
 
 训练成果存放于： .\yolov5-master\runs\train\exp2 , 包括权重和训练结果图像及其csv文件  
 
-对模型的基础解析位于 report.docx  
+对模型的基础分析位于 report.docx  
 
 
