@@ -90,14 +90,12 @@
 
 模型将会检测视频或图片中的暴力行为
 
-![a9dc44d0eceba80d519ee270a715845f](C:\Users\13371\Documents\Tencent Files\1337167870\nt_qq\nt_data\Pic\2024-07\Ori\a9dc44d0eceba80d519ee270a715845f.png)
+![image-20240702140535731](C:\Users\13371\AppData\Roaming\Typora\typora-user-images\image-20240702140535731.png)
 
-![9f0581d18a6e3f31bc17d3ebdb44c022](C:\Users\13371\Documents\Tencent Files\1337167870\nt_qq\nt_data\Pic\2024-07\Ori\9f0581d18a6e3f31bc17d3ebdb44c022.png)
+![image-20240702140509069](C:\Users\13371\AppData\Roaming\Typora\typora-user-images\image-20240702140509069.png)
 
-![abc7055062a815d87a205999245bf13c](C:\Users\13371\Documents\Tencent Files\1337167870\nt_qq\nt_data\Pic\2024-07\Ori\abc7055062a815d87a205999245bf13c.png)
+![image-20240702140419713](C:\Users\13371\AppData\Roaming\Typora\typora-user-images\image-20240702140419713.png)
 
-![68b7a7b8fe6cf0d38a03bb9b11dfe017](C:\Users\13371\Documents\Tencent Files\1337167870\nt_qq\nt_data\Pic\2024-07\Ori\68b7a7b8fe6cf0d38a03bb9b11dfe017.png)
+![image-20240702140610667](C:\Users\13371\AppData\Roaming\Typora\typora-user-images\image-20240702140610667.png)
 
-![f2e2e9dc873257fcfb327accd6721e0d](C:\Users\13371\Documents\Tencent Files\1337167870\nt_qq\nt_data\Pic\2024-07\Ori\f2e2e9dc873257fcfb327accd6721e0d.png)
-
-**注意到： 模型在面对人体剧烈姿态时，可能会出现假正例，但极少出现假负例。可能是模型对人体姿态和二者距离之间产生错误联系。需要对数据集标签重新精确标定，并且加大数据集训练** 
+**注意到： 模型在面对人体剧烈姿态时，可能会出现假正例，以及部分假负例。可能是模型对人体姿态和二者距离之间产生错误联系。需要对数据集标签重新精确标定，并且加大数据集训练** 
